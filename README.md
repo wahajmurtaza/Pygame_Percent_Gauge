@@ -18,3 +18,6 @@ here are some examples
 
 ## 20% without Glow
 <img src="20 without glow.PNG">
+
+## Video Link
+https://youtu.be/3a_v1T9XH50
