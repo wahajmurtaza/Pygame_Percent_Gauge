@@ -103,6 +103,6 @@ if __name__ == '__main__':
             percentage = 0
 
         screen.fill(bg_c)
-        my_gauge.draw(percent=20)
+        my_gauge.draw(percent=percentage)
         pygame.display.update()
         clock.tick(fps)
